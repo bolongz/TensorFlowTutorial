@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/blzhang/dp/TensorFlowTutorial/python/my_net/save_net.ckpt"
+all_model_checkpoint_paths: "/home/blzhang/dp/TensorFlowTutorial/python/my_net/save_net.ckpt"

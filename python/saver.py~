@@ -1,0 +1,4 @@
+import tensorflow as tf
+
+#save to file
+W = tf.Variable([[1,2,3], [3,4,5]])
